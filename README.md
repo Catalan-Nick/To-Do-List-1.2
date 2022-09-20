@@ -14,12 +14,9 @@ Install dependencies
 
 Run React dev server (http://localhost:3000)
 
-`npm start
+`npm start`
 
 Run the JSON server (http://localhost:5000)
 
-` npm run server
+`npm run server`
 
-To build for production
-
-npm run build
