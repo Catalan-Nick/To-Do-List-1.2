@@ -6,7 +6,7 @@ Tasks can be: <br>
 - removed by clicking the X <br>
 
 ##Version 1.2
-using json server, tasks are persistant across page reloads
+using json server, tasks are persistent across page reloads
 Usage
 Install dependencies
 
